@@ -1,0 +1,25 @@
+# Generated output files (large, can be regenerated)
+Task-1/d4rt_output/
+Task-1/learning/output/
+
+# Large binary files
+*.npy
+*.npz
+*.ply
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude local settings (machine-specific)
+.claude/settings.local.json
