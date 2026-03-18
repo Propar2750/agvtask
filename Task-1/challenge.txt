@@ -1,0 +1,3 @@
+1. Make an accurate optical flow detector
+2. Make it run at 60 fps or better for real time detection
+3. Use all the input data (preferably dont downgrade or downsize the image)
